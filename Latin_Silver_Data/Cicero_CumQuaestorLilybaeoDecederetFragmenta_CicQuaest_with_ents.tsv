@@ -1,0 +1,12 @@
+# sent_id = CicQuaest-D-59-1
+# text = quod non detrectare militiam sed defendere prouinciam iudicata est
+1	quod	lilaLemma:74854	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000001	O
+2	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000002	O
+3	detrectare	lilaLemma:99051	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000003	O
+4	militiam	lilaLemma:112331	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000004	O
+5	sed	lilaLemma:123994	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000005	O
+6	defendere	lilaLemma:98236	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000006	O
+7	prouinciam	lilaLemma:120189	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000007	O
+8	iudicata	lilaLemma:109171	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000008	O
+9	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20Quaestor%20Lilybaeo%20Decederet%20Fragmenta/Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.BPN_t_0000009	O
+

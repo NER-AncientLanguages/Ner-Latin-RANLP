@@ -1,0 +1,160 @@
+# sent_id = CicMetel-D-69-1
+# text = ubi uis uel in ipsa consistere
+1	ubi	lilaLemma:129639	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000001	O
+2	uis	lilaLemma:130745	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000002	O
+3	uel	lilaLemma:129695	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000003	O
+4	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000004	O
+5	ipsa	lilaLemma:108945	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000005	O
+6	consistere	lilaLemma:96065	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000006	O
+
+# sent_id = CicMetel-D-69-2
+# text = sic enim agam ut opinor insequar fugientem quoniam congredi non licet cum resistente
+1	sic	lilaLemma:124690	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000007	O
+2	enim	lilaLemma:101119	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000008	O
+3	agam	lilaLemma:88140	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000009	O
+4	ut	lilaLemma:130905	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000010	O
+5	opinor	lilaLemma:115070	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000011	O
+6	insequar	lilaLemma:108121	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000012	O
+7	fugientem	lilaLemma:103923	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000013	O
+8	quoniam	lilaLemma:121289	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000014	O
+9	congredi	lilaLemma:95899	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000015	O
+10	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000016	O
+11	licet	lilaLemma:110432	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000017	O
+12	cum	lilaLemma:97201	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000018	O
+13	resistente	lilaLemma:122727	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000019	O
+
+# sent_id = CicMetel-D-69-3
+# text = permulsa atque recreata est
+1	permulsa	lilaLemma:117097	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000020	O
+2	atque	lilaLemma:90490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000021	O
+3	recreata	lilaLemma:122435	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000022	O
+4	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000023	O
+
+# sent_id = CicMetel-D-69-4
+# text = nisi eorum exitio non requieturam
+1	nisi	lilaLemma:113704	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000024	O
+2	eorum	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000025	O
+3	exitio	lilaLemma:102062	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000026	O
+4	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000027	O
+5	requieturam	lilaLemma:122698	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000028	O
+
+# sent_id = CicMetel-D-69-5
+# text = escendi in contionem concursus est populi factus
+1	escendi	lilaLemma:101515	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000029	O
+2	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000030	O
+3	contionem	lilaLemma:96301	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000031	O
+4	concursus	lilaLemma:97718	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000032	O
+5	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000033	O
+6	populi	lilaLemma:118463	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000034	O
+7	factus	lilaLemma:102758	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000035	O
+
+# sent_id = CicMetel-D-69-6
+# text = uestrum iam hic factum reprehenditur patres conscripti non meum ac pulcherrimum quidem factum uerum ut dixi non meum sed uestrum
+1	uestrum	lilaLemma:130009	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000036	O
+2	iam	lilaLemma:106025	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000037	O
+3	hic	lilaIpoLemma:18676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000038	O
+4	factum	lilaLemma:104164	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000039	O
+5	reprehenditur	lilaLemma:122680	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000040	O
+6	patres	lilaLemma:116203	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000041	O
+7	conscripti	lilaLemma:95999	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000042	O
+8	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000043	O
+9	meum	lilaLemma:112262	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000044	O
+10	ac	lilaLemma:90490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000045	O
+11	pulcherrimum	lilaLemma:120421	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000046	O
+12	quidem	lilaLemma:121168	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000047	O
+13	factum	lilaLemma:104164	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000048	O
+14	uerum	lilaIpoLemma:111485	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000049	O
+15	ut	lilaLemma:130905	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000050	O
+16	dixi	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000051	O
+17	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000052	O
+18	meum	lilaLemma:112262	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000053	O
+19	sed	lilaLemma:123994	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000054	O
+20	uestrum	lilaLemma:130009	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000055	O
+
+# sent_id = CicMetel-D-69-7
+# text = uenit ex Asia
+1	uenit	lilaLemma:129790	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000056	O
+2	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000057	O
+3	Asia	lilaLemma:25197	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000058	O
+
+# sent_id = CicMetel-D-69-8
+# text = hoc ipsum quam nouum
+1	hoc	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000059	O
+2	ipsum	lilaLemma:108945	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000060	O
+3	quam	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000061	O
+4	nouum	lilaLemma:113900	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000062	O
+
+# sent_id = CicMetel-D-69-9
+# text = tribunus pl. uenit ex Asia
+1	tribunus	lilaLemma:128794	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000063	O
+2	pl.	lilaLemma:118610	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000064	O
+3	uenit	lilaLemma:129790	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000065	O
+4	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000066	O
+5	Asia	lilaLemma:25197	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000067	O
+
+# sent_id = CicMetel-D-69-10
+# text = uerumtamen uenit
+1	uerumtamen	lilaLemma:131067	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000068	O
+2	uenit	lilaLemma:129790	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000069	O
+
+# sent_id = CicMetel-D-69-11
+# text = dediderim periculis omnibus obtulerim insidiis obiecerim inuidiae uos enim statuistis uos sententiam dixistis uos iudicastis
+1	dediderim	lilaLemma:98205	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000070	O
+2	periculis	lilaLemma:116930	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000071	O
+3	omnibus	lilaLemma:114954	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000072	O
+4	obtulerim	lilaLemma:114795	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000073	O
+5	insidiis	lilaLemma:59778	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000074	O
+6	obiecerim	lilaLemma:114227	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000075	O
+7	inuidiae	lilaLemma:108842	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000076	O
+8	uos	lilaIpoLemma:110488	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000077	O
+9	enim	lilaLemma:101119	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000078	O
+10	statuistis	lilaLemma:125614	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000079	O
+11	uos	lilaIpoLemma:110488	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000080	O
+12	sententiam	lilaLemma:124342	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000081	O
+13	dixistis	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000082	O
+14	uos	lilaIpoLemma:110488	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000083	O
+15	iudicastis	lilaLemma:109171	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000084	O
+
+# sent_id = CicMetel-D-69-12
+# text = quaero ab inimicis sintne haec inuestigata comperta sublata extincta per me
+1	quaero	lilaLemma:121047	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000085	O
+2	ab	lilaLemma:86824	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000086	O
+3	inimicis	lilaLemma:107882	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000087	O
+4-5	sintne	_	_	_
+4	sint	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000088	O
+5	ne	lilaLemma:113490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000089	O
+6	haec	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000090	O
+7	inuestigata	lilaLemma:108829	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000091	O
+8	comperta	lilaLemma:95309	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000092	O
+9	sublata	lilaLemma:128357	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000093	O
+10	extincta	lilaLemma:102356	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000094	O
+11	per	lilaLemma:116569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000095	O
+12	me	lilaLemma:100712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000096	O
+
+# sent_id = CicMetel-D-69-13
+# text = qui indicabantur eos uocari custodiri ad senatum adduci iussi senatum si interposui
+1	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000097	O
+2	indicabantur	lilaLemma:107327	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000098	O
+3	eos	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000099	O
+4	uocari	lilaLemma:130729	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000100	O
+5	custodiri	lilaLemma:97393	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000101	O
+6	ad	lilaLemma:87344	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000102	O
+7	senatum	lilaLemma:124309	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000103	O
+8	adduci	lilaLemma:87410	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000104	O
+9	iussi	lilaLemma:109152	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000105	O
+10	senatum	lilaLemma:124309	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000106	O
+11	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000107	O
+12	interposui	lilaLemma:108591	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000108	O
+
+# sent_id = CicMetel-D-69-14
+# text = qui animum hostilem habet et cuius facta hostilia sunt
+1	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000109	O
+2	animum	lilaLemma:89094	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000110	O
+3	hostilem	lilaLemma:105753	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000111	O
+4	habet	lilaLemma:105044	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000112	O
+5	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000113	O
+6	cuius	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000114	O
+7	facta	lilaLemma:104164	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000115	O
+8	hostilia	lilaLemma:105753	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000116	O
+9	sunt	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroContra%20Contionem%20Q%20Metelli%20Fragmenta/Cicero_ContraContionemQMetelliFragmenta_CicMetel.BPN_t_0000117	O
+

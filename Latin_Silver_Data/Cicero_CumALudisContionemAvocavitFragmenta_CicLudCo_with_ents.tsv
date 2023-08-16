@@ -1,0 +1,14 @@
+# sent_id = CicLudCo-D-68-1
+# text = Cerealia Floralia ludosque Apollinares deorum immortalium esse non nostros
+1	Cerealia	lilaLemma:139864	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000001	O
+2	Floralia	lilaLemma:138640	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000002	O
+3-4	ludosque	_	_	_
+3	ludos	lilaLemma:110940	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000003	O
+4	que	lilaLemma:131416	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000004	O
+5	Apollinares	lilaLemma:89499	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000005	O
+6	deorum	lilaLemma:99132	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000006	O
+7	immortalium	lilaLemma:106439	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000007	O
+8	esse	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000008	O
+9	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000009	O
+10	nostros	lilaLemma:113882	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroCum%20A%20Ludis%20Contionem%20Avocavit%20Fragmenta/Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.BPN_t_0000010	O
+

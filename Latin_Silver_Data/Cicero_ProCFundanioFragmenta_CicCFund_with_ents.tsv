@@ -1,0 +1,58 @@
+# sent_id = CicCFund-D-63-1
+# text = non modo hoc a Uillio Annale sed uix mehercule a Q. Muttone factum probari potest
+1	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000001	O
+2	modo	lilaLemma:113289	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000002	O
+3	hoc	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000003	O
+4	a	lilaLemma:86824	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000004	O
+5	Uillio	lilaLemma:25086	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000005	O
+6	Annale	lilaLemma:30453	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000006	O
+7	sed	lilaLemma:123994	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000007	O
+8	uix	lilaLemma:130478	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000008	O
+9	mehercule	lilaLemma:111855	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000009	O
+10	a	lilaLemma:86824	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000010	O
+11	Q.	lilaLemma:74825	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000011	B-PERS
+12	Muttone	lilaLemma:113172	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000012	I-PERS
+13	factum	lilaLemma:102758	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000013	O
+14	probari	lilaLemma:119564	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000014	O
+15	potest	lilaLemma:118569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000015	O
+
+# sent_id = CicCFund-D-63-2
+# text = essetne id quod Meno nuntiasset
+1-2	essetne	_	_	_
+1	esset	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000016	O
+2	ne	lilaLemma:113490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000017	O
+3	id	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000018	O
+4	quod	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000019	O
+5	Meno	lilaLemma:141383	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000020	B-PERS
+6	nuntiasset	lilaLemma:114008	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000021	O
+
+# sent_id = CicCFund-D-63-3
+# text = commissura
+1	commissura	lilaLemma:95153	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000022	O
+
+# sent_id = CicCFund-D-63-4
+# text = puncta
+1	puncta	lilaLemma:120847	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000023	O
+
+# sent_id = CicCFund-D-63-5
+# text = descripsistine eius necessarium nostrum competitorem istum ipsum cuius nunc studio et gratia tota accusatio ista munita est
+1-2	descripsistine	_	_	_
+1	descripsisti	lilaLemma:98869	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000024	O
+2	ne	lilaLemma:113490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000025	O
+3	eius	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000026	O
+4	necessarium	lilaLemma:113504	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000027	O
+5	nostrum	lilaLemma:113882	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000028	O
+6	competitorem	lilaLemma:95316	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000029	O
+7	istum	lilaLemma:109122	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000030	O
+8	ipsum	lilaLemma:108945	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000031	O
+9	cuius	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000032	O
+10	nunc	lilaLemma:113990	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000033	O
+11	studio	lilaLemma:125889	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000034	O
+12	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000035	O
+13	gratia	lilaLemma:104869	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000036	O
+14	tota	lilaLemma:128484	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000037	O
+15	accusatio	lilaLemma:87168	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000038	O
+16	ista	lilaLemma:109122	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000039	O
+17	munita	lilaLemma:113053	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000040	O
+18	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Fundanio%20Fragmenta/Cicero_ProCFundanioFragmenta_CicCFund.BPN_t_0000041	O
+

@@ -1,0 +1,106 @@
+# sent_id = CicOppio-D-61-1
+# text = utrum cum Cottam appetisset an cum ipse se conaretur occidere telum e manibus ereptum est
+1	utrum	lilaLemma:131462	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000001	O
+2	cum	lilaLemma:97202	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000002	O
+3	Cottam	lilaLemma:4012	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000003	B-PERS
+4	appetisset	lilaLemma:89597	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000004	O
+5	an	lilaLemma:88828	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000005	O
+6	cum	lilaLemma:97202	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000006	O
+7	ipse	lilaLemma:108945	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000007	O
+8	se	lilaLemma:131255	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000008	O
+9	conaretur	lilaLemma:95962	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000009	O
+10	occidere	lilaLemma:114585	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000010	O
+11	telum	lilaLemma:127750	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000011	O
+12	e	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000012	O
+13	manibus	lilaLemma:111585	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000013	O
+14	ereptum	lilaLemma:101432	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000014	O
+15	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000015	O
+
+# sent_id = CicOppio-D-61-2
+# text = quos educere inuitos in prouinciam non potuit eos inuitos retinere qui potuit
+1	quos	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000016	O
+2	educere	lilaLemma:100589	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000017	O
+3	inuitos	lilaLemma:108873	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000018	O
+4	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000019	O
+5	prouinciam	lilaLemma:120189	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000020	O
+6	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000021	O
+7	potuit	lilaLemma:118569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000022	O
+8	eos	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000023	O
+9	inuitos	lilaLemma:108873	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000024	O
+10	retinere	lilaLemma:122776	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000025	O
+11	qui	lilaIpoLemma:110467	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000026	O
+12	potuit	lilaLemma:118569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000027	O
+
+# sent_id = CicOppio-D-61-3
+# text = at enim non ueri simile est tantum scelus M. Cottam esse commentum
+1	at	lilaLemma:87415	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000028	O
+2	enim	lilaLemma:101119	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000029	O
+3	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000030	O
+4	ueri	lilaLemma:129978	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000031	O
+5	simile	lilaLemma:124826	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000032	O
+6	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000033	O
+7	tantum	lilaLemma:127630	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000034	O
+8	scelus	lilaLemma:123667	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000035	O
+9	M.	lilaLemma:13420	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000036	B-PERS
+10	Cottam	lilaLemma:4012	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000037	I-PERS
+11	esse	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000038	O
+12	commentum	lilaLemma:95142	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000039	O
+
+# sent_id = CicOppio-D-61-4
+# text = quid
+1	quid	lilaLemma:121165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000040	O
+
+# sent_id = CicOppio-D-61-5
+# text = hoc ueri simile est tantum scelus Oppium esse conatum
+1	hoc	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000041	O
+2	ueri	lilaLemma:129978	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000042	O
+3	simile	lilaLemma:124826	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000043	O
+4	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000044	O
+5	tantum	lilaLemma:127630	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000045	O
+6	scelus	lilaLemma:123667	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000046	O
+7	Oppium	lilaLemma:68324	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000047	B-PERS
+8	esse	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000048	O
+9	conatum	lilaLemma:95962	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000049	O
+
+# sent_id = CicOppio-D-61-6
+# text = questusque mecum est
+1-2	questusque	_	_	_
+1	questus	lilaLemma:121157	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000050	O
+2	que	lilaLemma:131416	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000051	O
+3-4	mecum	_	_	_
+3	me	lilaLemma:100712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000052	O
+4	cum	lilaLemma:97201	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000053	O
+5	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000054	O
+
+# sent_id = CicOppio-D-61-7
+# text = etenim multum posse ad salutem alterius honori multis parum potuisse ad exitium probro nemini umquam fuit
+1	etenim	lilaLemma:101543	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000055	O
+2	multum	lilaIpoLemma:111489	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000056	O
+3	posse	lilaLemma:118569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000057	O
+4	ad	lilaLemma:87344	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000058	O
+5	salutem	lilaLemma:123276	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000059	O
+6	alterius	lilaLemma:88457	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000060	O
+7	honori	lilaLemma:105647	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000061	O
+8	multis	lilaLemma:112998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000062	O
+9	parum	lilaLemma:116130	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000063	O
+10	potuisse	lilaLemma:118569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000064	O
+11	ad	lilaLemma:87344	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000065	O
+12	exitium	lilaLemma:102062	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000066	O
+13	probro	lilaLemma:119558	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000067	O
+14	nemini	lilaLemma:113605	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000068	O
+15	umquam	lilaLemma:130569	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000069	O
+16	fuit	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000070	O
+
+# sent_id = CicOppio-D-61-8
+# text = o amorem mirum o beniuolentiam singularem
+1	o	lilaLemma:114172	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000071	O
+2	amorem	lilaLemma:88717	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000072	O
+3	mirum	lilaLemma:112444	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000073	O
+4	o	lilaLemma:114172	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000074	O
+5	beniuolentiam	lilaLemma:92062	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000075	O
+6	singularem	lilaLemma:124888	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000076	O
+
+# sent_id = CicOppio-D-61-9
+# text = senati
+1	senati	lilaLemma:124309	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Oppio%20Fragmenta/Cicero_ProOppioFragmenta_CicOppio.BPN_t_0000077	O
+

@@ -1,0 +1,11 @@
+# sent_id = CicCMani-D-62-1
+# text = hic ego non solum confiteor uerum etiam profiteor
+1	hic	lilaIpoLemma:18676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000001	O
+2	ego	lilaLemma:100712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000002	O
+3	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000003	O
+4	solum	lilaIpoLemma:111490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000004	O
+5	confiteor	lilaLemma:95769	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000005	O
+6	uerum	lilaIpoLemma:111485	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000006	O
+7	etiam	lilaLemma:101554	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000007	O
+8	profiteor	lilaLemma:119717	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20C%20Manilio%20Fragmenta/Cicero_ProCManilioFragmenta_CicCMani.BPN_t_0000008	O
+

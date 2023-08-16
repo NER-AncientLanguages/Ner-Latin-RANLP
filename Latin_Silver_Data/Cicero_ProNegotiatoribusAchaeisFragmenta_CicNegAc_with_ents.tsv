@@ -1,0 +1,8 @@
+# sent_id = CicNegAc-D-74-1
+# text = syngraphas quas nostra uoluntate conscripsimus
+1	syngraphas	lilaLemma:127246	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Negotiatoribus%20Achaeis%20Fragmenta/Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.BPN_t_0000001	O
+2	quas	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Negotiatoribus%20Achaeis%20Fragmenta/Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.BPN_t_0000002	O
+3	nostra	lilaLemma:113882	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Negotiatoribus%20Achaeis%20Fragmenta/Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.BPN_t_0000003	O
+4	uoluntate	lilaLemma:130763	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Negotiatoribus%20Achaeis%20Fragmenta/Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.BPN_t_0000004	O
+5	conscripsimus	lilaLemma:95999	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CiceroPro%20Negotiatoribus%20Achaeis%20Fragmenta/Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.BPN_t_0000005	O
+

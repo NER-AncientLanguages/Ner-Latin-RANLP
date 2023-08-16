@@ -1,0 +1,755 @@
+# sent_id = CatFrag-B-04-1
+# text = dicam de istis Graecis suo loco Marce fili quid Athenis exquisitum habeam et quod bonum sit illorum litteras inspicere non perdiscere
+1	dicam	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000001	O
+2	de	lilaLemma:97932	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000002	O
+3	istis	lilaLemma:109122	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000003	O
+4	Graecis	lilaLemma:8320	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000004	B-GRP
+5	suo	lilaLemma:127165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000005	O
+6	loco	lilaLemma:110019	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000006	O
+7	Marce	lilaLemma:13420	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000007	B-PERS
+8	fili	lilaLemma:103307	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000008	O
+9	quid	lilaLemma:121165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000009	O
+10	Athenis	lilaLemma:25775	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000010	O
+11	exquisitum	lilaLemma:102264	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000011	O
+12	habeam	lilaLemma:105044	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000012	O
+13	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000013	O
+14	quod	lilaLemma:74854	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000014	O
+15	bonum	lilaLemma:91782	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000015	O
+16	sit	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000016	O
+17	illorum	lilaLemma:106221	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000017	O
+18	litteras	lilaLemma:110668	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000018	O
+19	inspicere	lilaLemma:108224	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000019	O
+20	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000020	O
+21	perdiscere	lilaLemma:116726	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000021	O
+
+# sent_id = CatFrag-B-04-2
+# text = uincam nequissimum et indocile esse genus illorum
+1	uincam	lilaLemma:130232	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000022	O
+2	nequissimum	lilaLemma:114067	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000023	O
+3	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000024	O
+4	indocile	lilaLemma:107409	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000025	O
+5	esse	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000026	O
+6	genus	lilaLemma:104504	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000027	O
+7	illorum	lilaLemma:106221	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000028	O
+
+# sent_id = CatFrag-B-04-3
+# text = et hoc puta uatem dixisse quandoque ista gens suas litteras dabit omnia conrumpet tum etiam magis si medicos suos huc mittet
+1	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000029	O
+2	hoc	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000030	O
+3	puta	lilaLemma:120610	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000031	O
+4	uatem	lilaLemma:129625	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000032	O
+5	dixisse	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000033	O
+6-7	quandoque	_	_	_
+6	quando	lilaLemma:121084	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000034	O
+7	que	lilaLemma:131416	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000035	O
+8	ista	lilaLemma:109122	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000036	O
+9	gens	lilaLemma:104490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000037	O
+10	suas	lilaLemma:127165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000038	O
+11	litteras	lilaLemma:110668	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000039	O
+12	dabit	lilaLemma:99970	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000040	O
+13	omnia	lilaLemma:114954	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000041	O
+14	conrumpet	lilaLemma:96706	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000042	O
+15	tum	lilaLemma:129198	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000043	O
+16	etiam	lilaLemma:101554	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000044	O
+17	magis	lilaLemma:111271	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000045	O
+18	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000046	O
+19	medicos	lilaLemma:111811	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000047	O
+20	suos	lilaLemma:127165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000048	O
+21	huc	lilaLemma:105454	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000049	O
+22	mittet	lilaLemma:112499	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000050	O
+
+# sent_id = CatFrag-B-04-4
+# text = iurarunt inter se barbaros necare omnis medicina sed hoc ipsum mercede facient ut fides iis sit et facile disperdant
+1	iurarunt	lilaLemma:109249	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000051	O
+2	inter	lilaLemma:108392	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000052	O
+3	se	lilaLemma:131255	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000053	O
+4	barbaros	lilaLemma:91327	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000054	O
+5	necare	lilaLemma:113514	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000055	O
+6	omnis	lilaLemma:114954	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000056	O
+7	medicina	lilaLemma:111804	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000057	O
+8	sed	lilaLemma:123994	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000058	O
+9	hoc	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000059	O
+10	ipsum	lilaLemma:108945	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000060	O
+11	mercede	lilaLemma:112100	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000061	O
+12	facient	lilaLemma:102758	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000062	O
+13	ut	lilaLemma:130906	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000063	O
+14	fides	lilaLemma:103260	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000064	O
+15	iis	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000065	O
+16	sit	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000066	O
+17	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000067	O
+18	facile	lilaIpoLemma:111576	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000068	O
+19	disperdant	lilaLemma:99730	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000069	O
+
+# sent_id = CatFrag-B-04-5
+# text = nos quoque dictitant barbaros et spurcius nos quam alios Opicon appellatione foedant
+1	nos	lilaIpoLemma:110487	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000070	O
+2	quoque	lilaIpoLemma:110467	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000071	O
+3	dictitant	lilaLemma:99318	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000072	O
+4	barbaros	lilaLemma:91327	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000073	O
+5	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000074	O
+6	spurcius	lilaIpoLemma:41564	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000075	O
+7	nos	lilaIpoLemma:110487	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000076	O
+8	quam	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000077	O
+9	alios	lilaLemma:88481	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000078	O
+10	Opicon	lilaLemma:16683	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000079	O
+11	appellatione	lilaLemma:90985	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000080	O
+12	foedant	lilaLemma:103556	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000081	O
+
+# sent_id = CatFrag-B-04-6
+# text = interdixi tibi de medicis
+1	interdixi	lilaLemma:108441	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000082	O
+2	tibi	lilaLemma:129131	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000083	O
+3	de	lilaLemma:97932	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000084	O
+4	medicis	lilaLemma:111811	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000085	O
+
+# sent_id = CatFrag-B-04-7
+# text = lepus multum somni adfert qui illum edit
+1	lepus	lilaLemma:110277	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000086	O
+2	multum	lilaLemma:112999	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000087	O
+3	somni	lilaLemma:125130	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000088	O
+4	adfert	lilaLemma:88001	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000089	O
+5	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000090	O
+6	illum	lilaLemma:106221	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000091	O
+7	edit	lilaLemma:100576	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000092	O
+
+# sent_id = CatFrag-B-04-8
+# text = ex dolore ex febri ex siti ex medicamentis bibendis ex cataplasmatis ex aluo lauando
+1	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000093	O
+2	dolore	lilaLemma:100034	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000094	O
+3	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000095	O
+4	febri	lilaLemma:103052	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000096	O
+5	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000097	O
+6	siti	lilaLemma:124958	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000098	O
+7	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000099	O
+8	medicamentis	lilaLemma:111800	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000100	O
+9	bibendis	lilaLemma:91532	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000101	O
+10	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000102	O
+11	cataplasmatis	lilaLemma:93076	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000103	O
+12	ex	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000104	O
+13	aluo	lilaLemma:88525	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000105	O
+14	lauando	lilaLemma:110084	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000106	O
+
+# sent_id = CatFrag-B-04-9
+# text = uir bonus Marce fili colendi peritus cuius ferramenta splendent
+1	uir	lilaLemma:130300	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000107	O
+2	bonus	lilaLemma:91782	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000108	O
+3	Marce	lilaLemma:13420	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000109	B-PERS
+4	fili	lilaLemma:103307	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000110	O
+5	colendi	lilaLemma:94916	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000111	O
+6	peritus	lilaIpoLemma:110860	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000112	O
+7	cuius	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000113	O
+8	ferramenta	lilaLemma:103133	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000114	O
+9	splendent	lilaLemma:125421	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000115	O
+
+# sent_id = CatFrag-B-04-10
+# text = illi inperator tu ille ceteris mediastrinus
+1	illi	lilaLemma:106221	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000116	O
+2	inperator	lilaLemma:106515	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000117	O
+3	tu	lilaLemma:129131	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000118	O
+4	ille	lilaLemma:106221	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000119	O
+5	ceteris	lilaLemma:93624	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000120	O
+6	mediastrinus	lilaLemma:111785	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000121	O
+
+# sent_id = CatFrag-B-04-11
+# text = emas non quod opus est sed quod necesse est quod non opus est asse carum est
+1	emas	lilaLemma:100998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000122	O
+2	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000123	O
+3	quod	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000124	O
+4	opus	lilaLemma:115171	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000125	O
+5	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000126	O
+6	sed	lilaLemma:123994	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000127	O
+7	quod	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000128	O
+8	necesse	lilaLemma:113513	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000129	O
+9	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000130	O
+10	quod	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000131	O
+11	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000132	O
+12	opus	lilaLemma:115171	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000133	O
+13	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000134	O
+14	asse	lilaLemma:90172	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000135	O
+15	carum	lilaLemma:92942	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000136	O
+16	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000137	O
+
+# sent_id = CatFrag-B-04-12
+# text = quod tibi deerit a te ipso mutuare
+1	quod	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000138	O
+2	tibi	lilaLemma:129131	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000139	O
+3	deerit	lilaLemma:98996	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000140	O
+4	a	lilaLemma:86824	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000141	O
+5	te	lilaLemma:129131	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000142	O
+6	ipso	lilaLemma:108945	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000143	O
+7	mutuare	lilaLemma:113180	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000144	O
+
+# sent_id = CatFrag-B-04-13
+# text = orator est Marce fili uir bonus dicendi peritus
+1	orator	lilaLemma:115185	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000145	O
+2	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000146	O
+3	Marce	lilaLemma:13420	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000147	O
+4	fili	lilaLemma:103307	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000148	O
+5	uir	lilaLemma:130300	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000149	O
+6	bonus	lilaLemma:91782	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000150	O
+7	dicendi	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000151	O
+8	peritus	lilaIpoLemma:110860	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000152	O
+
+# sent_id = CatFrag-B-04-14
+# text = rem tene uerba sequentur
+1	rem	lilaLemma:121868	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000153	O
+2	tene	lilaLemma:127822	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000154	O
+3	uerba	lilaLemma:131057	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000155	O
+4	sequentur	lilaLemma:124461	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000156	O
+
+# sent_id = CatFrag-B-04-15
+# text = scio ego quae scripta sunt si palam proferantur multos fore qui uitilitigent sed ii potissimum qui uerae laudis expertes sunt
+1	scio	lilaLemma:123732	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000157	O
+2	ego	lilaLemma:100712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000158	O
+3	quae	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000159	O
+4	scripta	lilaLemma:123840	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000160	O
+5	sunt	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000161	O
+6	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000162	O
+7	palam	lilaLemma:115666	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000163	O
+8	proferantur	lilaLemma:119705	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000164	O
+9	multos	lilaLemma:112998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000165	O
+10	fore	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000166	O
+11	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000167	O
+12	uitilitigent	lilaLemma:130423	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000168	O
+13	sed	lilaLemma:123994	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000169	O
+14	ii	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000170	O
+15	potissimum	lilaIpoLemma:47567	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000171	O
+16	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000172	O
+17	uerae	lilaLemma:129978	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000173	O
+18	laudis	lilaLemma:110103	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000174	O
+19	expertes	lilaLemma:102168	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000175	O
+20	sunt	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000176	O
+
+# sent_id = CatFrag-B-04-16
+# text = eorum ego orationes siui praeterfluere
+1	eorum	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000177	O
+2	ego	lilaLemma:100712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000178	O
+3	orationes	lilaLemma:115179	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000179	O
+4	siui	lilaLemma:124907	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000180	O
+5	praeterfluere	lilaLemma:120725	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000181	O
+
+# sent_id = CatFrag-B-04-17
+# text = ut populus sua opera potius ob rem bene gestam coronatus supplicatum eat quam re male gesta coronatus ueneat
+1	ut	lilaLemma:130906	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000182	O
+2	populus	lilaLemma:118463	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000183	O
+3	sua	lilaLemma:127165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000184	O
+4	opera	lilaLemma:115016	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000185	O
+5	potius	lilaIpoLemma:47567	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000186	O
+6	ob	lilaLemma:114173	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000187	O
+7	rem	lilaLemma:121868	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000188	O
+8	bene	lilaLemma:91473	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000189	O
+9	gestam	lilaLemma:104536	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000190	O
+10	coronatus	lilaLemma:96654	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000191	O
+11	supplicatum	lilaLemma:127037	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000192	O
+12	eat	lilaLemma:101183	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000193	O
+13	quam	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000194	O
+14	re	lilaLemma:121868	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000195	O
+15	male	lilaIpoLemma:26555	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000196	O
+16	gesta	lilaLemma:104536	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000197	O
+17	coronatus	lilaLemma:96654	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000198	O
+18	ueneat	lilaLemma:129770	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000199	O
+
+# sent_id = CatFrag-B-04-18
+# text = magistratus nihil audent imperare ne quid consul auspici peremat
+1	magistratus	lilaLemma:111283	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000200	O
+2	nihil	lilaLemma:114071	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000201	O
+3	audent	lilaLemma:90638	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000202	O
+4	imperare	lilaLemma:106539	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000203	O
+5	ne	lilaLemma:113491	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000204	O
+6	quid	lilaLemma:121165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000205	O
+7	consul	lilaLemma:96181	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000206	O
+8	auspici	lilaLemma:90806	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000207	O
+9	peremat	lilaLemma:116943	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000208	O
+
+# sent_id = CatFrag-B-04-19
+# text = inde partem equitatus atque ferentarios praedatum misit
+1	inde	lilaLemma:107259	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000209	O
+2	partem	lilaLemma:116084	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000210	O
+3	equitatus	lilaLemma:101193	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000211	O
+4	atque	lilaLemma:90490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000212	O
+5	ferentarios	lilaLemma:103105	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000213	O
+6	praedatum	lilaLemma:118857	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000214	O
+7	misit	lilaLemma:112499	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000215	O
+
+# sent_id = CatFrag-B-04-20
+# text = pedites quattuor agminibus equites duobus antibus ducas
+1	pedites	lilaLemma:116387	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000216	O
+2	quattuor	lilaLemma:121130	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000217	O
+3	agminibus	lilaLemma:88106	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000218	O
+4	equites	lilaLemma:101354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000219	O
+5	duobus	lilaLemma:100246	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000220	O
+6	antibus	lilaLemma:89229	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000221	O
+7	ducas	lilaLemma:100196	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000222	O
+
+# sent_id = CatFrag-B-04-21
+# text = una depugnatio est fronte longo quadrato exercitu
+1	una	lilaLemma:85636	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000223	O
+2	depugnatio	lilaLemma:98802	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000224	O
+3	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000225	O
+4	fronte	lilaLemma:103845	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000226	O
+5	longo	lilaLemma:110796	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000227	O
+6	quadrato	lilaIpoLemma:36805	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000228	O
+7	exercitu	lilaLemma:101960	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000229	O
+
+# sent_id = CatFrag-B-04-22
+# text = siue forte opus sit cuneo aut globo aut forcipe aut turribus aut serra uti adoriare
+1	siue	lilaLemma:124968	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000230	O
+2	forte	lilaLemma:103683	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000231	O
+3	opus	lilaLemma:115171	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000232	O
+4	sit	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000233	O
+5	cuneo	lilaLemma:97255	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000234	O
+6	aut	lilaLemma:90827	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000235	O
+7	globo	lilaLemma:104692	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000236	O
+8	aut	lilaLemma:90827	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000237	O
+9	forcipe	lilaLemma:103612	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000238	O
+10	aut	lilaLemma:90827	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000239	O
+11	turribus	lilaLemma:129294	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000240	O
+12	aut	lilaLemma:90827	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000241	O
+13	serra	lilaLemma:124520	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000242	O
+14	uti	lilaLemma:130906	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000243	O
+15	adoriare	lilaLemma:87631	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000244	O
+
+# sent_id = CatFrag-B-04-23
+# text = tertia e castris eductio celeris properaque est
+1	tertia	lilaLemma:127957	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000245	O
+2	e	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000246	O
+3	castris	lilaLemma:138599	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000247	O
+4	eductio	lilaLemma:100590	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000248	O
+5	celeris	lilaLemma:93322	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000249	O
+6-7	properaque	_	_	_
+6	propera	lilaLemma:119936	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000250	O
+7	que	lilaLemma:131416	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000251	O
+8	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000252	O
+
+# sent_id = CatFrag-B-04-24
+# text = satis celeris sis in tempore
+1	satis	lilaLemma:123480	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000253	O
+2	celeris	lilaLemma:93322	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000254	O
+3	sis	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000255	O
+4	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000256	O
+5	tempore	lilaLemma:127522	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000257	O
+
+# sent_id = CatFrag-B-04-25
+# text = quam gladiator disciplinosus
+1	quam	null	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000258	O
+2	gladiator	lilaLemma:104623	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000259	O
+3	disciplinosus	lilaLemma:99611	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000260	O
+
+# sent_id = CatFrag-B-04-26
+# text = auaritiam omnia uitia habere putabant
+1	auaritiam	lilaLemma:90590	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000261	O
+2	omnia	lilaLemma:114954	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000262	O
+3	uitia	lilaLemma:130432	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000263	O
+4	habere	lilaLemma:105044	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000264	O
+5	putabant	lilaLemma:120610	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000265	O
+
+# sent_id = CatFrag-B-04-27
+# text = sumptuosus cupidus elegans uitiosus inritus qui habebatur is laudabatur
+1	sumptuosus	lilaLemma:126712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000266	O
+2	cupidus	lilaLemma:97281	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000267	O
+3	elegans	lilaLemma:102521	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000268	O
+4	uitiosus	lilaLemma:130428	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000269	O
+5	inritus	lilaLemma:109058	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000270	O
+6	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000271	O
+7	habebatur	lilaLemma:105044	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000272	O
+8	is	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000273	O
+9	laudabatur	lilaLemma:110078	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000274	O
+
+# sent_id = CatFrag-B-04-28
+# text = uestiri in foro honeste mos erat domi quod satis erat
+1	uestiri	lilaLemma:130029	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000275	O
+2	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000276	O
+3	foro	lilaLemma:103701	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000277	O
+4	honeste	lilaIpoLemma:18836	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000278	O
+5	mos	lilaLemma:112831	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000279	O
+6	erat	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000280	O
+7	domi	lilaLemma:100070	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000281	O
+8	quod	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000282	O
+9	satis	lilaLemma:135858	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000283	O
+10	erat	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000284	O
+
+# sent_id = CatFrag-B-04-29
+# text = equos carius quam coquos emebant
+1	equos	lilaLemma:101076	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000285	O
+2	carius	lilaIpoLemma:5800	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000286	O
+3	quam	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000287	O
+4	coquos	lilaLemma:96552	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000288	O
+5	emebant	lilaLemma:100998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000289	O
+
+# sent_id = CatFrag-B-04-30
+# text = poeticae artis honos non erat
+1	poeticae	lilaLemma:117327	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000290	O
+2	artis	lilaLemma:90089	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000291	O
+3	honos	lilaLemma:105647	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000292	O
+4	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000293	O
+5	erat	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000294	O
+
+# sent_id = CatFrag-B-04-31
+# text = si quis in ea re studebat aut sese ad conuiuia adplicabat grassator uocabatur
+1	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000295	O
+2	quis	lilaLemma:121165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000296	O
+3	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000297	O
+4	ea	lilaLemma:109083	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000298	O
+5	re	lilaLemma:121868	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000299	O
+6	studebat	lilaLemma:125886	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000300	O
+7	aut	lilaLemma:90827	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000301	O
+8	sese	lilaLemma:131255	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000302	O
+9	ad	lilaLemma:87344	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000303	O
+10	conuiuia	lilaLemma:96478	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000304	O
+11	adplicabat	lilaLemma:89607	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000305	O
+12	grassator	lilaLemma:104864	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000306	O
+13	uocabatur	lilaLemma:130729	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000307	O
+
+# sent_id = CatFrag-B-04-32
+# text = nam uita humana prope uti ferrum est
+1	nam	lilaLemma:113344	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000308	O
+2	uita	lilaLemma:130393	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000309	O
+3	humana	lilaLemma:105765	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000310	O
+4	prope	lilaLemma:119921	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000311	O
+5	uti	lilaLemma:130905	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000312	O
+6	ferrum	lilaLemma:103152	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000313	O
+7	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000314	O
+
+# sent_id = CatFrag-B-04-33
+# text = si exerceas conteritur si non exerceas tamen rubigo interficit
+1	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000315	O
+2	exerceas	lilaLemma:101981	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000316	O
+3	conteritur	lilaLemma:96267	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000317	O
+4	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000318	O
+5	non	lilaLemma:114108	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000319	O
+6	exerceas	lilaLemma:101981	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000320	O
+7	tamen	lilaLemma:127607	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000321	O
+8	rubigo	lilaLemma:122136	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000322	O
+9	interficit	lilaLemma:108471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000323	O
+
+# sent_id = CatFrag-B-04-34
+# text = item homines exercendo uidemus conteri si nihil exerceas inertia atque torpedo plus detrimenti facit quam exercitio
+1	item	lilaLemma:109131	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000324	O
+2	homines	lilaLemma:105624	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000325	O
+3	exercendo	lilaLemma:101981	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000326	O
+4	uidemus	lilaLemma:130163	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000327	O
+5	conteri	lilaLemma:96267	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000328	O
+6	si	lilaLemma:124676	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000329	O
+7	nihil	lilaLemma:114071	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000330	O
+8	exerceas	lilaLemma:101981	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000331	O
+9	inertia	lilaLemma:107523	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000332	O
+10	atque	lilaLemma:90490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000333	O
+11	torpedo	lilaLemma:128441	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000334	O
+12	plus	lilaLemma:112998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000335	O
+13	detrimenti	lilaLemma:99054	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000336	O
+14	facit	lilaLemma:102758	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000337	O
+15	quam	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000338	O
+16	exercitio	lilaLemma:101990	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000339	O
+
+# sent_id = CatFrag-B-04-35
+# text = quia saepe utiles uidentur praedonuli
+1	quia	lilaLemma:121166	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000340	O
+2	saepe	lilaLemma:123106	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000341	O
+3	utiles	lilaLemma:130917	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000342	O
+4	uidentur	lilaLemma:130163	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000343	O
+5	praedonuli	lilaLemma:118856	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000344	O
+
+# sent_id = CatFrag-B-04-36
+# text = mansues ad
+1	mansues	lilaLemma:111530	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000345	O
+2	ad	lilaLemma:87344	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000346	O
+
+# sent_id = CatFrag-B-04-37
+# text = interempto praestari
+1	interempto	lilaLemma:108500	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000347	O
+2	praestari	lilaLemma:119246	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000348	O
+
+# sent_id = CatFrag-B-04-38
+# text = in his duobus bellis alteras stipendio agrique parte multati alteras oppidum ui captum alteras primo pedatu et secundo
+1	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000349	O
+2	his	lilaLemma:105455	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000350	O
+3	duobus	lilaLemma:100246	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000351	O
+4	bellis	lilaLemma:91461	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000352	O
+5	alteras	lilaLemma:139611	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000353	O
+6	stipendio	lilaLemma:125716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000354	O
+7-8	agrique	_	_	_
+7	agri	lilaLemma:88060	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000355	O
+8	que	lilaLemma:131416	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000356	O
+9	parte	lilaLemma:116084	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000357	O
+10	multati	lilaLemma:112996	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000358	O
+11	alteras	lilaLemma:139611	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000359	O
+12	oppidum	lilaLemma:115116	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000360	O
+13	ui	lilaLemma:130360	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000361	O
+14	captum	lilaLemma:92686	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000362	O
+15	alteras	lilaLemma:139611	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000363	O
+16	primo	lilaLemma:119498	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000364	O
+17	pedatu	lilaLemma:120860	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000365	O
+18	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000366	O
+19	secundo	lilaLemma:127502	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000367	O
+
+# sent_id = CatFrag-B-04-39
+# text = quod iter longius arduiusque erat a curia
+1	quod	lilaLemma:74854	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000368	O
+2	iter	lilaLemma:109132	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000369	O
+3	longius	lilaLemma:110796	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000370	O
+4-5	arduiusque	_	_	_
+4	arduius	lilaLemma:89907	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000371	O
+5	que	lilaLemma:131416	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000372	O
+6	erat	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000373	O
+7	a	lilaLemma:86824	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000374	O
+8	curia	lilaLemma:97315	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000375	O
+
+# sent_id = CatFrag-B-04-40
+# text = qui tantisper nulli rei sies dum nihil agas
+1	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000376	O
+2	tantisper	lilaLemma:127626	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000377	O
+3	nulli	lilaLemma:114081	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000378	O
+4	rei	lilaLemma:121868	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000379	O
+5	sies	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000380	O
+6	dum	lilaLemma:100236	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000381	O
+7	nihil	lilaLemma:114071	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000382	O
+8	agas	lilaLemma:88140	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000383	O
+
+# sent_id = CatFrag-B-04-41
+# text = caduceatori nemo homo nocet
+1	caduceatori	lilaLemma:92181	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000384	O
+2	nemo	lilaLemma:113605	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000385	O
+3	homo	lilaLemma:105624	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000386	O
+4	nocet	lilaLemma:113754	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000387	O
+
+# sent_id = CatFrag-B-04-42
+# text = ueternosus quam plurimum bibit tam maxime sitit
+1	ueternosus	lilaLemma:130060	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000388	O
+2	quam	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000389	O
+3	plurimum	lilaLemma:112998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000390	O
+4	bibit	lilaLemma:91532	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000391	O
+5	tam	lilaLemma:127600	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000392	O
+6	maxime	lilaLemma:111271	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000393	O
+7	sitit	lilaLemma:124957	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000394	O
+
+# sent_id = CatFrag-B-04-43
+# text = praeda quae capta est uiritim diuisa
+1	praeda	lilaLemma:118801	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000395	O
+2	quae	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000396	O
+3	capta	lilaLemma:92686	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000397	O
+4	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000398	O
+5	uiritim	lilaLemma:130352	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000399	O
+6	diuisa	lilaLemma:99932	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000400	O
+
+# sent_id = CatFrag-B-04-44
+# text = et in Italia atras capras lacte album habere
+1	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000401	O
+2	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000402	O
+3	Italia	lilaLemma:10748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000403	B-LOC
+4	atras	lilaLemma:90951	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000404	O
+5	capras	lilaLemma:92664	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000405	O
+6	lacte	lilaLemma:109637	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000406	O
+7	album	lilaLemma:88265	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000407	O
+8	habere	lilaLemma:105044	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000408	O
+
+# sent_id = CatFrag-B-04-45
+# text = suapte natio sua separata seorsum
+1	suapte	lilaLemma:127165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000409	O
+2	natio	lilaLemma:113415	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000410	O
+3	sua	lilaLemma:127165	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000411	O
+4	separata	lilaLemma:124369	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000412	O
+5	seorsum	lilaLemma:124359	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000413	O
+
+# sent_id = CatFrag-B-04-46
+# text = qua mollissimum est adoriuntur
+1	qua	lilaIpoLemma:110471	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000414	O
+2	mollissimum	lilaLemma:112607	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000415	O
+3	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000416	O
+4	adoriuntur	lilaLemma:87631	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000417	O
+
+# sent_id = CatFrag-B-04-47
+# text = sub tela uolantia
+1	sub	lilaLemma:125956	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000418	O
+2	tela	lilaLemma:127750	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000419	O
+3	uolantia	lilaLemma:130746	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000420	O
+
+# sent_id = CatFrag-B-04-48
+# text = malum deligatum parastatae iunctae
+1	malum	lilaLemma:111421	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000421	O
+2	deligatum	lilaLemma:98470	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000422	O
+3	parastatae	lilaLemma:115988	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000423	O
+4	iunctae	lilaLemma:109224	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000424	O
+
+# sent_id = CatFrag-B-04-49
+# text = audacias
+1	audacias	lilaLemma:90633	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000425	O
+
+# sent_id = CatFrag-B-04-50
+# text = aliorsum illorsum
+1	aliorsum	lilaLemma:88342	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000426	O
+2	illorsum	lilaLemma:106270	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000427	O
+
+# sent_id = CatFrag-B-04-51
+# text = futare
+1	futare	lilaLemma:104110	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000428	O
+
+# sent_id = CatFrag-B-04-52
+# text = ferocit fiuere
+1	ferocit	lilaIpoLemma:16498	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000429	O
+2	fiuere	lilaLemma:103280	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000430	O
+
+# sent_id = CatFrag-B-04-53
+# text = fruniscor frunitum
+1	fruniscor	lilaLemma:103881	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000431	O
+2	frunitum	lilaLemma:103881	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000432	O
+
+# sent_id = CatFrag-B-04-54
+# text = felices infelices
+1	felices	lilaLemma:103068	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000433	O
+2	infelices	lilaLemma:107633	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000434	O
+
+# sent_id = CatFrag-B-04-55
+# text = latitauerunt
+1	latitauerunt	lilaLemma:110067	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000435	O
+
+# sent_id = CatFrag-B-04-56
+# text = mihipte
+1	mihipte	lilaLemma:100712	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000436	O
+
+# sent_id = CatFrag-B-04-57
+# text = tumultu Macedoniae Etruriam Samnites Lucanos inter se natinari atque factiones esse
+1	tumultu	lilaLemma:129220	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000437	O
+2	Macedoniae	lilaLemma:12754	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000438	B-LOC
+3	Etruriam	lilaLemma:6467	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000439	B-LOC
+4	Samnites	lilaLemma:20718	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000440	B-GRP
+5	Lucanos	lilaLemma:12330	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000441	B-GRP
+6	inter	lilaLemma:108392	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000442	O
+7	se	lilaLemma:131255	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000443	O
+8	natinari	lilaLemma:113414	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000444	O
+9	atque	lilaLemma:90490	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000445	O
+10	factiones	lilaLemma:102761	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000446	O
+11	esse	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000447	O
+
+# sent_id = CatFrag-B-04-58
+# text = Poenorum IIII suffetes omnis cohortes omnis qui stipendia meritauerunt
+1	Poenorum	lilaLemma:18990	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000448	O
+2	IIII	lilaLemma:121130	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000449	O
+3	suffetes	lilaLemma:126589	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000450	O
+4	omnis	lilaLemma:114954	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000451	O
+5	cohortes	lilaLemma:94751	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000452	O
+6	omnis	lilaLemma:114954	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000453	O
+7	qui	lilaLemma:121354	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000454	O
+8	stipendia	lilaLemma:125716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000455	O
+9	meritauerunt	lilaLemma:112138	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000456	O
+
+# sent_id = CatFrag-B-04-59
+# text = moscillis
+1	moscillis	lilaLemma:112833	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000457	O
+
+# sent_id = CatFrag-B-04-60
+# text = properie mari opus est
+1	properie	null	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000458	O
+2	mari	lilaLemma:111604	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000459	O
+3	opus	lilaLemma:115171	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000460	O
+4	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000461	O
+
+# sent_id = CatFrag-B-04-61
+# text = Numidae multam uiuunt
+1	Numidae	lilaLemma:16086	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000462	O
+2	multam	lilaLemma:112998	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000463	O
+3	uiuunt	lilaLemma:130476	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000464	O
+
+# sent_id = CatFrag-B-04-62
+# text = lentis numquam cuiquam suppremam aduocationem
+1	lentis	null	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000465	O
+2	numquam	lilaLemma:114084	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000466	O
+3	cuiquam	lilaLemma:121315	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000467	O
+4	suppremam	lilaLemma:126999	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000468	O
+5	aduocationem	lilaLemma:87718	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000469	O
+
+# sent_id = CatFrag-B-04-63
+# text = ueterinam
+1	ueterinam	lilaLemma:130057	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000470	O
+
+# sent_id = CatFrag-B-04-64
+# text = uls
+1	uls	lilaLemma:130504	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000471	O
+
+# sent_id = CatFrag-B-04-65
+# text = ungulatros
+1	ungulatros	lilaLemma:141573	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000472	O
+
+# sent_id = CatFrag-B-04-66
+# text = uerberitare
+1	uerberitare	lilaLemma:129853	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000473	O
+
+# sent_id = CatFrag-B-04-67
+# text = uopte
+1	uopte	lilaIpoLemma:110488	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000474	O
+
+# sent_id = CatFrag-B-04-68
+# text = imperabiliter
+1	imperabiliter	lilaLemma:106512	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000475	O
+
+# sent_id = CatFrag-B-04-69
+# text = rare
+1	rare	lilaIpoLemma:37176	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000476	O
+
+# sent_id = CatFrag-B-04-70
+# text = rarenter
+1	rarenter	lilaLemma:121440	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000477	O
+
+# sent_id = CatFrag-B-04-71
+# text = iugeris
+1	iugeris	lilaLemma:109183	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000478	O
+
+# sent_id = CatFrag-B-04-72
+# text = secunde
+1	secunde	lilaIpoLemma:47557	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000479	O
+
+# sent_id = CatFrag-B-04-73
+# text = putei
+1	putei	lilaLemma:120602	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000480	O
+
+# sent_id = CatFrag-B-04-74
+# text = fenoribus copertus est
+1	fenoribus	lilaLemma:102816	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000481	O
+2	copertus	lilaLemma:96508	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000482	O
+3	est	lilaLemma:126689	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000483	O
+
+# sent_id = CatFrag-B-04-75
+# text = nouissimus nouissime
+1	nouissimus	lilaLemma:113900	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000484	O
+2	nouissime	lilaIpoLemma:28988	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000485	O
+
+# sent_id = CatFrag-B-04-76
+# text = circumcirca
+1	circumcirca	lilaLemma:94089	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000486	O
+
+# sent_id = CatFrag-B-04-77
+# text = praeterpropter
+1	praeterpropter	lilaLemma:137550	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000487	O
+
+# sent_id = CatFrag-B-04-78
+# text = solui
+1	solui	lilaLemma:125051	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000488	O
+
+# sent_id = CatFrag-B-04-79
+# text = dicae faciae
+1	dicae	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000489	O
+2	faciae	lilaLemma:102758	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000490	O
+
+# sent_id = CatFrag-B-04-80
+# text = recipie
+1	recipie	lilaLemma:122390	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000491	O
+
+# sent_id = CatFrag-B-04-81
+# text = ostende
+1	ostende	lilaLemma:115363	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000492	O
+
+# sent_id = CatFrag-B-04-82
+# text = attinge
+1	attinge	lilaLemma:90555	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000493	O
+
+# sent_id = CatFrag-B-04-83
+# text = dice
+1	dice	lilaLemma:99302	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000494	O
+
+# sent_id = CatFrag-B-04-84
+# text = diee
+1	diee	lilaLemma:99334	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000495	O
+
+# sent_id = CatFrag-B-04-85
+# text = feneratorem
+1	feneratorem	lilaLemma:102967	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/CatoCato%20Fragmenta%20Reliqua/Cato_CatoFragmentaReliqua_CatFrag.BPN_t_0000496	O
+
