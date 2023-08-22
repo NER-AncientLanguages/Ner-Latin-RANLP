@@ -16,19 +16,33 @@ This folder contains the automatic NER annotation for the texts included in the 
 See the following paper about the LiLa-LASLA linking:
 
 inproceedings{fantoli-etal-2022-linking,
+
     title = "Linking the {LASLA} Corpus in the {L}i{L}a Knowledge Base of Interoperable Linguistic Resources for {L}atin",
+    
     author = "Fantoli, Margherita  and
+    
       Passarotti, Marco  and
+      
       Mambrini, Francesco  and
+      
       Moretti, Giovanni  and
+      
       Ruffolo, Paolo",
+      
     booktitle = "Proceedings of the 8th Workshop on Linked Data in Linguistics within the 13th Language Resources and Evaluation Conference",
+    
     month = jun,
+    
     year = "2022",
+    
     address = "Marseille, France",
+    
     publisher = "European Language Resources Association",
+    
     url = "https://aclanthology.org/2022.ldl-1.4",
+    
     pages = "26--34",
+    
 }
 
 # Code
