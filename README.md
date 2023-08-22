@@ -14,36 +14,7 @@ Every token is associated to its token and lemma URIs as found in the [LiLa Know
 
 This folder contains the automatic NER annotation for the texts included in the portion of the LASLA corpus linked to the LiLa Knowledge Base, and includes the URIs of the linking. The model used for the annotation is [Latin Bert with hyperparameter optimization] (code/latinbert_hypopt_params.py).
 See the following paper about the LiLa-LASLA linking:
-
-inproceedings{fantoli-etal-2022-linking,
-
-    title = "Linking the {LASLA} Corpus in the {L}i{L}a Knowledge Base of Interoperable Linguistic Resources for {L}atin",
-    
-    author = "Fantoli, Margherita  and
-    
-      Passarotti, Marco  and
-      
-      Mambrini, Francesco  and
-      
-      Moretti, Giovanni  and
-      
-      Ruffolo, Paolo",
-      
-    booktitle = "Proceedings of the 8th Workshop on Linked Data in Linguistics within the 13th Language Resources and Evaluation Conference",
-    
-    month = jun,
-    
-    year = "2022",
-    
-    address = "Marseille, France",
-    
-    publisher = "European Language Resources Association",
-    
-    url = "https://aclanthology.org/2022.ldl-1.4",
-    
-    pages = "26--34",
-    
-}
+[Linking the LASLA Corpus in the LiLa Knowledge Base of Interoperable Linguistic Resources for Latin](https://aclanthology.org/2022.ldl-1.4) (Fantoli et al., LDL 2022)
 
 # Code
 This is the folder for Latin_NER experiments, 
