@@ -12,7 +12,7 @@ Every token is associated to its token and lemma URIs as found in the [LiLa Know
 
 # Latin_Silver_Data
 
-This folder contains the automatic NER annotation for the texts included in the portion of the LASLA corpus linked to the LiLa Knowledge Base, and includes the URIs of the linking. The model used for the annotation is [Latin Bert with hyperparameter optimization] (https://github.com/NER-AncientLanguages/Ner-Latin-RANLP/blob/main/code/latinbert_hypopt_params.py).
+This folder contains the automatic NER annotation for the texts included in the portion of the LASLA corpus linked to the LiLa Knowledge Base, and includes the URIs of the linking. The model used for the annotation is found at [retrain with best params] (https://github.com/NER-AncientLanguages/Ner-Latin-RANLP/blob/main/code/latinbert_hypopt_params.py).
 See the following paper about the LiLa-LASLA linking:
 [Linking the LASLA Corpus in the LiLa Knowledge Base of Interoperable Linguistic Resources for Latin](https://aclanthology.org/2022.ldl-1.4) (Fantoli et al., LDL 2022)
 
