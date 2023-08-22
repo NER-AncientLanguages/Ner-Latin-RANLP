@@ -1,8 +1,38 @@
 # Ner-Latin-RANLP
 Repository for NER data for Latin
 
+# Latin_Gold_data
+
+This folder includes manual Named Entity Recognition (NER) annotation for three texts:
+- Cicero, _In M. Antonium Oratio Philippica prima_ (3754 tokens, annotated by Margherita Fantoli)
+- Juvenal, _Satirae_ 1-3 (4399 tokens, annotated by Evelien De Graaf and Margherita Fantoli)
+- Tacitus, _Historiae_ 1 (11983 tokens; annotated by Evelien De Graaf)
+- The tokens are taken from the [LASLA corpus] (https://www.lasla.uliege.be/cms/c_8570411/fr/lasla-textes-latins).
+Every token is associated to its token and lemma URIs as found in the [LiLa Knowledge Base] (https://lila-erc.eu/query/).
+
+# Latin_Silver_Data
+
+This folder contains the automatic NER annotation for the texts included in the portion of the LASLA corpus linked to the LiLa Knowledge Base, and includes the URIs of the linking. The model used for the annotation is [Latin Bert with hyperparameter optimization] (code/latinbert_hypopt_params.py).
+See the following paper about the LiLa-LASLA linking:
+
+inproceedings{fantoli-etal-2022-linking,
+    title = "Linking the {LASLA} Corpus in the {L}i{L}a Knowledge Base of Interoperable Linguistic Resources for {L}atin",
+    author = "Fantoli, Margherita  and
+      Passarotti, Marco  and
+      Mambrini, Francesco  and
+      Moretti, Giovanni  and
+      Ruffolo, Paolo",
+    booktitle = "Proceedings of the 8th Workshop on Linked Data in Linguistics within the 13th Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.ldl-1.4",
+    pages = "26--34",
+}
+
 # Code
-This is the folder for Latin_NER experiments
+This is the folder for Latin_NER experiments, 
 Assumes the "Latin-BERT" repository is cloned in the same folder.
 Environment specifications are available in [Title](../../Gitlab/code_Latin_NER/environment/latin_ner_pipeline_env.yaml)
 
