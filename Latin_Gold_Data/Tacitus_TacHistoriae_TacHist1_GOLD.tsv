@@ -11685,7 +11685,7 @@
 3	cohortem	lilaLemma:94751	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010243	O
 4	e	lilaLemma:101716	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010244	O
 5	colonia	lilaLemma:94931	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010245	O
-6	Ostiensi	lilaLemma:17045	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010246	O
+6	Ostiensi	lilaLemma:17045	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010246	B-GEO
 7	in	lilaLemma:106748	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010247	O
 8	urbem	lilaLemma:130822	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010248	O
 9	acciri	lilaLemma:87118	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0010249	O
