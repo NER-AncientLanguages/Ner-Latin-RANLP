@@ -605,7 +605,7 @@
 1	miles	lilaLemma:112318	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000535	O
 2	urbanus	lilaLemma:130816	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000536	O
 3	longo	lilaLemma:110796	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000537	O
-4	Caesarum	lilaLemma:1947	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000538	B-PER
+4	Caesarum	lilaLemma:1947	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000538	B-GRP
 5	sacramento	lilaLemma:123079	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000539	O
 6	imbutus	lilaLemma:106353	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000540	O
 7	et	lilaLemma:101542	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0000541	O
@@ -13645,4 +13645,4 @@
 8	Saluio	lilaLemma:20678	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0011980	B-PER
 9	Titiano	lilaLemma:23804	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0011981	I-PER
 10	fratri	lilaLemma:103739	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0011982	O
-11	permisit	lilaLemma:117085	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0011983	
+11	permisit	lilaLemma:117085	TokenURI=http://lila-erc.eu/data/corpora/Lasla/id/corpus/TacitusTac%20Historiae/Tacitus_TacHistoriae_TacHist1.BPN_t_0011983	O
