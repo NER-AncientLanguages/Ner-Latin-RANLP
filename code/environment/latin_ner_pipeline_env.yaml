@@ -179,4 +179,3 @@ dependencies:
       - zipp==3.16.2
       - zope-event==5.0
       - zope-interface==6.0
-prefix: C:\Users\u0161477\AppData\Local\anaconda3\envs\latin_ner
