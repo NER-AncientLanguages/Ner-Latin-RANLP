@@ -46,3 +46,7 @@ Running trained model on the LASLA corpus using the LatinNerPipeline:
 
 
 LatinNerPipeline minimal example (slightly adjusted from the LASLA one): [minimal example](<code/pipeline demo.ipynb>) 
+
+## License
+The content provided in the Latin_Gold_Data and Latin_Silver_Data folders is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+The content in the code folder is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
